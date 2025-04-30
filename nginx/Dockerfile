@@ -1,4 +1,4 @@
-FROM nginx:1.17
+FROM nginx:1.28.0
 
 MAINTAINER vitams
 
